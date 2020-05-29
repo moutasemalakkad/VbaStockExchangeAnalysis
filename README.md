@@ -7,7 +7,7 @@ In this mini project  we will use VBA scripting to analyze real stock market dat
 
 * [Test Data](Resources/alphabtical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final report.
 
 
 ![stock Market](Images/stockmarket.jpg)
